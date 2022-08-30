@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+h3{
+    color: #900;
+    font: bold small-caps 20px arial, helvetica, sans-serif;
+
+}
+p{
+    font: 14px/20px Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    text-indent: 20px;
+}
+figure{
+    text-align: center;
+}
+/* DRY - don't repeat yourself 
+KISS - keep everything simply stupid 
+POG - Programacao orientada a gambiarra
+GO HORSE - fazer pelas cucuias */
+li{
+    font: 14px/20px Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    list-style: square;
+    list-style-position: inside;
+    /* list-style-image:url(../imagens/logos/favicon.png)   - caso voce queira um icone especial*/
+}
+h2{
+    color: #334;
+    font: bold small-caps 20px arial, helvetica, sans-serif;
+    text-orientation: uppercase;
+}
+h4{
+    color: #338;
+    font: bold small-caps 20px arial, helvetica, sans-serif;
+}
+th{
+    color: #334;
+    font: bold 40px arial, helvetica, sans-serif;
+    text-orientation: uppercase;
+}
+td{
+    color: #334;
+    font: normal 20px arial, helvetica, sans-serif;
+}
